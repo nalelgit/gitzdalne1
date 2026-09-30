@@ -1,5 +1,6 @@
 // TODO: musimy dodac brakujace klasy!
 
+// jeszcze to
 
 // OK, ja dodam ‘Adder‘, a s##### doda ‘Subtractor‘.
 
